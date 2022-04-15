@@ -1,5 +1,7 @@
 import Logo from "./logo.png";
 import DiscordLogo from "./discord.png";
+import lineapp from "./lineapp.png"
+import logo3 from "./logo3.jpeg"
 
 function Landing() {
   return (
@@ -98,25 +100,25 @@ function Landing() {
                 <div class="flex">
                   <div class="flex items-center pr-1">
                     <img
-                      src={DiscordLogo.src}
+                      src={lineapp.src}
                       class="h-auto"
                       style={{ width: "30px", height: "30px" }}
                     />
                   </div>
                   <div>
                     <div class="text-lg text-left">
-                      Senior Website Developer
+                      Fullstack Website Developer
                     </div>
                     <div class="text-md text-left text-gray-400">
-                      Discord Inc.
+                      LINE Corporation
                     </div>
                   </div>
                 </div>
                 <div class="grid grid-flow-col gap-1 mx-auto py-2">
-                  <div class="col-span-2 text-left">55 people applied</div>
+                  <div class="col-span-2 text-left">33 people applied</div>
                   <div class="col-span-1">
-                    <span class="inline-block py-1 px-2 rounded bg-indigo-50 text-indigo-500 float-right">
-                      Opened
+                    <span class="inline-block py-1 px-2 rounded bg-red-50 text-red-500 float-right">
+                      Shortlistened
                     </span>
                   </div>
                 </div>
@@ -127,17 +129,17 @@ function Landing() {
                 <div class="flex">
                   <div class="flex items-center pr-1">
                     <img
-                      src={DiscordLogo.src}
+                      src={logo3.src}
                       class="h-auto"
                       style={{ width: "30px", height: "30px" }}
                     />
                   </div>
                   <div>
                     <div class="text-lg text-left">
-                      Senior Website Developer
+                      Frontend Website Developer
                     </div>
                     <div class="text-md text-left text-gray-400">
-                      Discord Inc.
+                      Patreon, Inc.
                     </div>
                   </div>
                 </div>
