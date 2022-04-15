@@ -25,8 +25,8 @@ function Landing() {
             <a class="mr-5 hover:text-gray-900">Company</a>
             <a class="mr-5 hover:text-gray-900">About Us</a>
           </nav>
-          <button class="inline-flex items-center bg-blue-700 text-white border-0 focus:outline-none hover:bg-blue-500 px-5 py-3 rounded text-base mt-4 md:mt-0">
-            Regsiter Account
+          <button class="inline-flex items-center bg-red-500 text-white border-0 focus:outline-none hover:bg-red-400 px-5 py-3 rounded text-base mt-4 md:mt-0">
+            Regsiter account
           </button>
         </div>
       </header>
@@ -42,7 +42,7 @@ function Landing() {
             <br /> things done - from quick turnarounds to big transformations.
           </div>
           <div class="row-span-3 ... bg-gray-100 p-4">
-            <button class="inline-flex items-center bg-blue-700 text-white text-center border-0 focus:outline-none hover:bg-blue-500 px-5 py-3 rounded text-base mt-4 md:mt-0 w-full">
+            <button class="inline-flex items-center bg-cyan-600 text-white text-center border-0 focus:outline-none hover:bg-cyan-500 px-5 py-3 rounded text-base mt-4 md:mt-0 w-full">
               Polpular Job
             </button>
             <div>
