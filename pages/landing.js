@@ -159,9 +159,12 @@ function Landing() {
 
       <section className="text-gray-600 body-font bg-white">
         <div className="container px-5 py-24 mx-auto">
+        <button className="flex mx-auto mt-16 text-red bg-red-100 border-0 py-2 px-8 focus:outline-none  rounded text-lg mb-6">
+           <p className="text-red-600"> How it works</p>
+          </button>
           <div className="text-center mb-20">
             <h1 className="sm:text-3xl text-2xl font-medium title-font text-gray-900 mb-4">
-              East step to get your dream job
+              Easy step to get your dream job
             </h1>
             <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500s">
               WE ensure your next step is a step forward. That why we built a
@@ -290,9 +293,7 @@ function Landing() {
               </div>
             </div>
           </div>
-          <button className="flex mx-auto mt-16 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-            Button
-          </button>
+  
         </div>
       </section>
     </div>
