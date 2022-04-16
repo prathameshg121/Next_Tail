@@ -164,7 +164,7 @@ function Landing() {
               East step to get your dream job
             </h1>
             <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500s">
-              WE ensure your next step is a step forward. That's why we built a
+              WE ensure your next step is a step forward. That why we built a
               jobs marketplace that cut off the boring proccesses
             </p>
             <div className="flex mt-6 justify-center">
